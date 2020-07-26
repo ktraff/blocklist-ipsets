@@ -1,0 +1,116 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 27836,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 1232,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 396,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 10958,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 978,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 53,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 7,
+		"common": 2
+	},
+	{
+		"name": "bi_proftpd_0_1d",
+		"category": "attacks",
+		"ips": 27,
+		"common": 1
+	},
+	{
+		"name": "bi_proftpd_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_proftpd_2_30d",
+		"category": "attacks",
+		"ips": 2,
+		"common": 1
+	},
+	{
+		"name": "bi_pureftpd_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_pureftpd_2_30d",
+		"category": "attacks",
+		"ips": 4,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29981,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 422,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 41920,
+		"common": 2
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 37981,
+		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9308910,
+		"common": 2
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3566,
+		"common": 2
+	}
+]

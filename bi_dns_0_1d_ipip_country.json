@@ -1,0 +1,50 @@
+[
+	{
+		"code": "BE",
+		"value": 3
+	},
+	{
+		"code": "BG",
+		"value": 2
+	},
+	{
+		"code": "CA",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 3
+	},
+	{
+		"code": "DE",
+		"value": 2
+	},
+	{
+		"code": "DK",
+		"value": 2
+	},
+	{
+		"code": "FR",
+		"value": 2
+	},
+	{
+		"code": "GB",
+		"value": 1
+	},
+	{
+		"code": "IL",
+		"value": 2
+	},
+	{
+		"code": "NL",
+		"value": 2
+	},
+	{
+		"code": "NO",
+		"value": 1
+	},
+	{
+		"code": "US",
+		"value": 7
+	}
+]

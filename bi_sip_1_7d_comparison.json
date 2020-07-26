@@ -1,0 +1,32 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 27836,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 1232,
+		"common": 1
+	},
+	{
+		"name": "bi_sip_0_1d",
+		"category": "attacks",
+		"ips": 13,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 46,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 3,
+		"common": 1
+	}
+]

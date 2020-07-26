@@ -1,0 +1,116 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 27836,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 1232,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 396,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 10958,
+		"common": 3
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 978,
+		"common": 2
+	},
+	{
+		"name": "bi_asterisk_0_1d",
+		"category": "attacks",
+		"ips": 38,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 46,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 3,
+		"common": 2
+	},
+	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 3,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29981,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 200,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 37981,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672136,
+		"common": 2
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1097808,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756668765,
+		"common": 2
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 2
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 16272,
+		"common": 3
+	}
+]
